@@ -20,10 +20,6 @@ This repository contains the official implementation of the paper:
 
 TMMSRec is a **time-interval-aware multi-modal sequential recommendation model** that leverages both temporal patterns and multi-modal content (e.g., text, image) to predict user preferences. This repository provides the full implementation, including data preprocessing, model training, evaluation, and pre-trained checkpoints.
 
-**Key Features:**
-- Time interval encoding for irregularly spaced user interactions
-- Multi-modal fusion (text + image) for item representation
-- Sequential modeling with Transformer architecture
 
 ---
 
